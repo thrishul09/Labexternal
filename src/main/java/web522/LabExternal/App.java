@@ -11,5 +11,6 @@ public class App {
         System.out.println("github change");
         System.out.println("new change 1");
         System.out.println("new change 2");
+        System.out.println("new change");
     }
 }
